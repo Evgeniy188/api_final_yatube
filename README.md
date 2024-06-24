@@ -13,9 +13,9 @@ API для проекта социальной сети Yatube. Проект р�
 
 ### Технологии
 
-- [Python](https://www.python.org/) - язык программирования.
-- [Django REST Framework](https://www.django-rest-framework.org/) - мощный и гибкий набор инструментов для создания веб-API.
-- [Simple JWT](https://django-rest-framework-simplejwt.readthedocs.io/en/latest/) - плагин аутентификации JSON Web Token для Django REST Framework.
+- [Python 3.8](https://www.python.org/) - язык программирования.
+- [Django REST Framework 3.2.16](https://www.django-rest-framework.org/) - мощный и гибкий набор инструментов для создания веб-API.
+- [Simple JWT 4.7.2](https://django-rest-framework-simplejwt.readthedocs.io/en/latest/) - плагин аутентификации JSON Web Token для Django REST Framework.
 
 ### Как запустить проект:
 
@@ -118,3 +118,6 @@ offset - Номер страницы после которой начинать 
 
 #### После запуска проекта, документация будет доступна по адресу:
 `http://localhost:port/redoc/`
+
+## Автор
+[Евгений Лапшин](https://github.com/Evgeniy188)
